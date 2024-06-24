@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
+	twitterscraper "github.com/Kotomiya07/twitter-scraper-go"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	twitterscraper "github.com/Kotomiya07/twitter-scraper"
 )
 
 func TestGetProfile(t *testing.T) {

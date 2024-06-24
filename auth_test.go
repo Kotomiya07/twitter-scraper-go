@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	twitterscraper "github.com/Kotomiya07/twitter-scraper"
+	twitterscraper "github.com/Kotomiya07/twitter-scraper-go"
 )
 
 var (

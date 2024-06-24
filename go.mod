@@ -1,4 +1,4 @@
-module github.com/Kotomiya07/twitter-scraper
+module github.com/Kotomiya07/twitter-scraper-go
 
 go 1.16
 
